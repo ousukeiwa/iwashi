@@ -1,0 +1,19 @@
+＃＃CSS　style.css＃＃
+body {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+
+.game-container {
+    margin-top: 20px;
+}
+
+canvas {
+    background-color: #000; /* 宇宙空間をイメージした黒背景 */
+    border: 2px solid #444;
+    box-shadow: 0 0 20px rgba(0, 255, 255, 0.2);
+    display: block;
+    margin: 0 auto;
+}
